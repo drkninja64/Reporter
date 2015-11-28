@@ -7,7 +7,7 @@ public class Reporter {
      * Main Function
      */
     public static void main(String args[]){
-        System.out.println("Wazzaaa!");
+        System.out.println("Wazzaaaa!");
 
     }
 
